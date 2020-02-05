@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+	background-color: lightgreen;
+	color: darkviolet;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: large;
+}
+h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: normal;
+	font-size: xx-large;
+}
