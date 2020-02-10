@@ -2,12 +2,35 @@
 
 body {
 	background-color: lightgreen;
-	color: darkviolet;
+	color: darkorchid;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-size: large;
+	line-height: 1.5;
 }
 h1 {
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
-	font-style: normal;
+	font-style: italic;
 	font-size: xx-large;
+	line-height: 2.5;
+	border: dashed;
+	border-top-color: darkslateblue;
+	border-bottom-color: darkslateblue;
+	border-left-color: darkred;
+	border-right-color: darkred;
+}
+
+h2 {
+	color: darkviolet;
+	line-height: 2;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: x-large;
+	font-style: italic;
+}
+
+.projects {
+	font-family:"averia-libre";
+}
+
+#title {
+	color:darkviolet;
 }
