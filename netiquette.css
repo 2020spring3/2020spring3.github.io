@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+	background-color: #0BD0C6;
+}
+.title {
+	color:white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+#container {
+	color:white ;
+}
+
+.body {
+	font-size: 20px;
+	
+}
+
+#rules {
+	font-size: 18px;
+}
+#intro {
+	float: left;
+	width: 49%;
+}
+
+#box {
+	float: right;
+	width: 50%;
+	border:solid;
+	border-color: yellow;
+}
+
+.headers {
+	font-size: 23px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
