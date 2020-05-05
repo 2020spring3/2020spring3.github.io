@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body {
+  background-color:#C6C6C6;
+}
+
+.body {
+	font-size: 20px;
+  color: blue;
+}
+
+.title {
+  color: darkblue;
+}
+
+#container {
+  color: blue;
+}
+
+.headers {
+  color: darkblue;
+  font-size: 25px;
+}
+
+li {
+	padding-bottom: 20px;
+}
+
+a:Link {
+  color: lightgreen;
+}
+
+a:visited {
+  color: OliveDrab;
+}
+
+table {
+  border-style:solid;
+  border-color:black;
+  background-color:gray;
+  padding: 10px;
+  color: turquoise;
+}
+
+td {
+  border-style:solid;
+  border-color:black;
+  padding: 20px;
+}
